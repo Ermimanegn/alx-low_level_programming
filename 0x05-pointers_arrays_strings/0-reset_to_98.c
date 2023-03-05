@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+ * reset_to_98 - resets value to 98
+ * @n: value to reset
+ * Return: nothing
+ */
+void reset_to_98(int *n)
+{
+    // reset the value to 98
+    *n = 98
+}
