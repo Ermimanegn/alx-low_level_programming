@@ -15,7 +15,7 @@ for (i = 0; s[i] != '\0'; i++)
 }
 for (revs = i - 1; revs >= 0; revs--)
 {
-	_putchar(s[revs]);
+_putchar(s[revs]);
 }
 _putchar('\n');
 }
