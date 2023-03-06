@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+#include "main.h"
+
+/**
+* main - Start process
+* Return: Always 0
+*
+*/
+
+int main(void)
+{
+
+        _putchar('_');
+        _putchar('p');
+        _putchar('u');
+        _putchar('t');
+        _putchar('c');
+        _putchar('h');
+        _putchar('a');
+        _putchar('r');
+        _putchar('\n');
+        return (0);
+=======
 #include <unistd.h>
 #include "main.h"
 
@@ -19,4 +42,5 @@ int main(void)
 	}
 	_putchar('\n');
 	return (0);
+>>>>>>> b9096478d2b37b02af3e6dc6c7f0a5fb195cb0f4
 }
